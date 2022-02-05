@@ -1,3 +1,8 @@
+# Horiseon Website 
+## Adding more Accessibility Features to Improve the Page 
+
+### Description of how more accessibility was added 
+
 First, I started by going ahead and adding a more specific title, and naming it "Horiseon" since that is the website's name and the main page of the site. By doing this, it allows the title to be shown in the browser bar/tab so that visitors know exactly where they are in the site. 
 
 Then I went through the source code and making sure there were semantic elements, so that meant getting rid of any unnecessary divs and replacing them with more readable elements. Since div doesn't really tell the user about the contents, I instead used elements like header, footer, nav, artivle, etc, therefore making the site more accessible. 
@@ -9,5 +14,6 @@ Then I made sure that all the heading attributes fell in sequential order. For e
 Lastly, I made sure all of the elements follow a logical structure on a separate style.css file instead of adding the styles to the html.file, making the code easier to read and less busy. 
 
 
-Link to deployed application: https://camryngoins.github.io/horiseon-website-2/
+### Link to deployed application: 
+ https://camryngoins.github.io/horiseon-website-2/
 
