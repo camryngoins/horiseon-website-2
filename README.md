@@ -18,8 +18,8 @@ Lastly, I made sure all of the elements follow a logical structure on a separate
  https://camryngoins.github.io/horiseon-website-2/
 
 
-### Screenshots below: 
+### Screenshot below: 
 
-!{Horiseon Website} (./Develop/assets/images/horiseon-screenshot.png)
+![Horiseon Website] (Develop/assets/images/horiseon-screenshot.png)
 
 
