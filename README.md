@@ -20,6 +20,6 @@ Lastly, I made sure all of the elements follow a logical structure on a separate
 
 ### Screenshot below: 
 
-![Horiseon Website] (Develop/assets/images/horiseon-screenshot.png)
+![Horiseon Website](Develop/assets/images/horiseon-screenshot.png)
 
 
