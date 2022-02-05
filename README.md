@@ -1,7 +1,7 @@
 # Horiseon Website 
-## Adding more Accessibility Features to Improve the Page 
+## Adding Accessibility Features
 
-### Description of how more accessibility was added 
+### Description:
 
 First, I started by going ahead and adding a more specific title, and naming it "Horiseon" since that is the website's name and the main page of the site. By doing this, it allows the title to be shown in the browser bar/tab so that visitors know exactly where they are in the site. 
 
@@ -16,4 +16,7 @@ Lastly, I made sure all of the elements follow a logical structure on a separate
 
 ### Link to deployed application: 
  https://camryngoins.github.io/horiseon-website-2/
+
+!{}
+
 
