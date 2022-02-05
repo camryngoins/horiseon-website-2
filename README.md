@@ -17,6 +17,9 @@ Lastly, I made sure all of the elements follow a logical structure on a separate
 ### Link to deployed application: 
  https://camryngoins.github.io/horiseon-website-2/
 
-!{}
+
+### Screenshots below: 
+
+!{}(images/scrrenshot-1.png)
 
 
